@@ -1,0 +1,7 @@
+id = "vscode-dark-modern-vim"
+name = "VSCode Dark Modern Vim"
+version = "0.0.1"
+schema_version = 1
+authors = ["uintptr <uintptr@github"]
+description = "VSCode Dark Modern Theme with OG Vim Colors for Zed"
+repository = "https://github.com/uintptr/vscode_highcontrast_256"
